@@ -28,9 +28,9 @@
 Voici un aperçu de l'interface de RH-PRO.
 
 ### L'interface principale, prête pour l'analyse :
-![Texte alternatif](./capture/rh-pro-vide.png)
+![Texte alternatif](./captures/rh-pro-vide.png)
 ### Cas d'utilisation de la solution :
-![Texte alternatif](./capture/rh-pro-rempli.png)
+![Texte alternatif](./captures/rh-pro-rempli.png)
 
 ## 🛠️ Technologies utilisées
 
